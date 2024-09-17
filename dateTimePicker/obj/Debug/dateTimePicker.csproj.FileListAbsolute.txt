@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\dateTimePicker\bin\Debug\dateTimePicker.exe.config
+D:\kudo\Winform\WindowsFormsApp\dateTimePicker\bin\Debug\dateTimePicker.exe
+D:\kudo\Winform\WindowsFormsApp\dateTimePicker\bin\Debug\dateTimePicker.pdb
+D:\kudo\Winform\WindowsFormsApp\dateTimePicker\obj\Debug\dateTimePicker.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\dateTimePicker\obj\Debug\dateTimePicker.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\dateTimePicker\obj\Debug\dateTimePicker.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\dateTimePicker\obj\Debug\dateTimePicker.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\dateTimePicker\obj\Debug\dateTimePicker.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\dateTimePicker\obj\Debug\dateTimePicker.exe
+D:\kudo\Winform\WindowsFormsApp\dateTimePicker\obj\Debug\dateTimePicker.pdb

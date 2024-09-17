@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\openFileDialog\bin\Debug\openFileDialog.exe.config
+D:\kudo\Winform\WindowsFormsApp\openFileDialog\bin\Debug\openFileDialog.exe
+D:\kudo\Winform\WindowsFormsApp\openFileDialog\bin\Debug\openFileDialog.pdb
+D:\kudo\Winform\WindowsFormsApp\openFileDialog\obj\Debug\openFileDialog.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\openFileDialog\obj\Debug\openFileDialog.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\openFileDialog\obj\Debug\openFileDialog.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\openFileDialog\obj\Debug\openFileDialog.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\openFileDialog\obj\Debug\openFileDialog.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\openFileDialog\obj\Debug\openFileDialog.exe
+D:\kudo\Winform\WindowsFormsApp\openFileDialog\obj\Debug\openFileDialog.pdb

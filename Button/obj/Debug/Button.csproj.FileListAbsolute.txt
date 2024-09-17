@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\Button\bin\Debug\Button.exe.config
+D:\kudo\Winform\WindowsFormsApp\Button\bin\Debug\Button.exe
+D:\kudo\Winform\WindowsFormsApp\Button\bin\Debug\Button.pdb
+D:\kudo\Winform\WindowsFormsApp\Button\obj\Debug\Button.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\Button\obj\Debug\Button.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\Button\obj\Debug\Button.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\Button\obj\Debug\Button.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\Button\obj\Debug\Button.exe
+D:\kudo\Winform\WindowsFormsApp\Button\obj\Debug\Button.pdb

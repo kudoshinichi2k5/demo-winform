@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\ColorDialog\bin\Debug\ColorDialog.exe.config
+D:\kudo\Winform\WindowsFormsApp\ColorDialog\bin\Debug\ColorDialog.exe
+D:\kudo\Winform\WindowsFormsApp\ColorDialog\bin\Debug\ColorDialog.pdb
+D:\kudo\Winform\WindowsFormsApp\ColorDialog\obj\Debug\ColorDialog.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\ColorDialog\obj\Debug\ColorDialog.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\ColorDialog\obj\Debug\ColorDialog.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\ColorDialog\obj\Debug\ColorDialog.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\ColorDialog\obj\Debug\ColorDialog.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\ColorDialog\obj\Debug\ColorDialog.exe
+D:\kudo\Winform\WindowsFormsApp\ColorDialog\obj\Debug\ColorDialog.pdb

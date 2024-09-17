@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\textBox\bin\Debug\textBox.exe.config
+D:\kudo\Winform\WindowsFormsApp\textBox\bin\Debug\textBox.exe
+D:\kudo\Winform\WindowsFormsApp\textBox\bin\Debug\textBox.pdb
+D:\kudo\Winform\WindowsFormsApp\textBox\obj\Debug\textBox.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\textBox\obj\Debug\textBox.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\textBox\obj\Debug\textBox.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\textBox\obj\Debug\textBox.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\textBox\obj\Debug\textBox.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\textBox\obj\Debug\textBox.exe
+D:\kudo\Winform\WindowsFormsApp\textBox\obj\Debug\textBox.pdb

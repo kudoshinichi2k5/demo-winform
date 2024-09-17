@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\pictureBox\bin\Debug\pictureBox.exe.config
+D:\kudo\Winform\WindowsFormsApp\pictureBox\bin\Debug\pictureBox.exe
+D:\kudo\Winform\WindowsFormsApp\pictureBox\bin\Debug\pictureBox.pdb
+D:\kudo\Winform\WindowsFormsApp\pictureBox\obj\Debug\pictureBox.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\pictureBox\obj\Debug\pictureBox.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\pictureBox\obj\Debug\pictureBox.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\pictureBox\obj\Debug\pictureBox.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\pictureBox\obj\Debug\pictureBox.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\pictureBox\obj\Debug\pictureBox.exe
+D:\kudo\Winform\WindowsFormsApp\pictureBox\obj\Debug\pictureBox.pdb

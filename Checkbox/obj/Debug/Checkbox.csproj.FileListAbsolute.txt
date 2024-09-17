@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\Checkbox\bin\Debug\Checkbox.exe.config
+D:\kudo\Winform\WindowsFormsApp\Checkbox\bin\Debug\Checkbox.exe
+D:\kudo\Winform\WindowsFormsApp\Checkbox\bin\Debug\Checkbox.pdb
+D:\kudo\Winform\WindowsFormsApp\Checkbox\obj\Debug\Checkbox.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\Checkbox\obj\Debug\Checkbox.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\Checkbox\obj\Debug\Checkbox.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\Checkbox\obj\Debug\Checkbox.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\Checkbox\obj\Debug\Checkbox.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\Checkbox\obj\Debug\Checkbox.exe
+D:\kudo\Winform\WindowsFormsApp\Checkbox\obj\Debug\Checkbox.pdb

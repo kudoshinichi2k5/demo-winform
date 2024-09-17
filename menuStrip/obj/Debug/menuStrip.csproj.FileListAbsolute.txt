@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\menuStrip\bin\Debug\menuStrip.exe.config
+D:\kudo\Winform\WindowsFormsApp\menuStrip\bin\Debug\menuStrip.exe
+D:\kudo\Winform\WindowsFormsApp\menuStrip\bin\Debug\menuStrip.pdb
+D:\kudo\Winform\WindowsFormsApp\menuStrip\obj\Debug\menuStrip.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\menuStrip\obj\Debug\menuStrip.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\menuStrip\obj\Debug\menuStrip.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\menuStrip\obj\Debug\menuStrip.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\menuStrip\obj\Debug\menuStrip.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\menuStrip\obj\Debug\menuStrip.exe
+D:\kudo\Winform\WindowsFormsApp\menuStrip\obj\Debug\menuStrip.pdb

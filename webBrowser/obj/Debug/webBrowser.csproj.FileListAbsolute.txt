@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\webBrowser\bin\Debug\webBrowser.exe.config
+D:\kudo\Winform\WindowsFormsApp\webBrowser\bin\Debug\webBrowser.exe
+D:\kudo\Winform\WindowsFormsApp\webBrowser\bin\Debug\webBrowser.pdb
+D:\kudo\Winform\WindowsFormsApp\webBrowser\obj\Debug\webBrowser.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\webBrowser\obj\Debug\webBrowser.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\webBrowser\obj\Debug\webBrowser.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\webBrowser\obj\Debug\webBrowser.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\webBrowser\obj\Debug\webBrowser.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\webBrowser\obj\Debug\webBrowser.exe
+D:\kudo\Winform\WindowsFormsApp\webBrowser\obj\Debug\webBrowser.pdb

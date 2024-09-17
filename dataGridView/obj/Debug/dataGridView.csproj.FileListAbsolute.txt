@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\dataGridView\bin\Debug\dataGridView.exe.config
+D:\kudo\Winform\WindowsFormsApp\dataGridView\bin\Debug\dataGridView.exe
+D:\kudo\Winform\WindowsFormsApp\dataGridView\bin\Debug\dataGridView.pdb
+D:\kudo\Winform\WindowsFormsApp\dataGridView\obj\Debug\dataGridView.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\dataGridView\obj\Debug\dataGridView.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\dataGridView\obj\Debug\dataGridView.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\dataGridView\obj\Debug\dataGridView.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\dataGridView\obj\Debug\dataGridView.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\dataGridView\obj\Debug\dataGridView.exe
+D:\kudo\Winform\WindowsFormsApp\dataGridView\obj\Debug\dataGridView.pdb

@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\RadioButton\bin\Debug\RadioButton.exe.config
+D:\kudo\Winform\WindowsFormsApp\RadioButton\bin\Debug\RadioButton.exe
+D:\kudo\Winform\WindowsFormsApp\RadioButton\bin\Debug\RadioButton.pdb
+D:\kudo\Winform\WindowsFormsApp\RadioButton\obj\Debug\RadioButton.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\RadioButton\obj\Debug\RadioButton.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\RadioButton\obj\Debug\RadioButton.exe
+D:\kudo\Winform\WindowsFormsApp\RadioButton\obj\Debug\RadioButton.pdb

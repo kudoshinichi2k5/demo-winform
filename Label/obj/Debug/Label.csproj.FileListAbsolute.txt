@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\Label\bin\Debug\Label.exe.config
+D:\kudo\Winform\WindowsFormsApp\Label\bin\Debug\Label.exe
+D:\kudo\Winform\WindowsFormsApp\Label\bin\Debug\Label.pdb
+D:\kudo\Winform\WindowsFormsApp\Label\obj\Debug\Label.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\Label\obj\Debug\Label.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\Label\obj\Debug\Label.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\Label\obj\Debug\Label.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\Label\obj\Debug\Label.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\Label\obj\Debug\Label.exe
+D:\kudo\Winform\WindowsFormsApp\Label\obj\Debug\Label.pdb

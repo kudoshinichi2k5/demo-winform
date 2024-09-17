@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\errorProvider\bin\Debug\errorProvider.exe.config
+D:\kudo\Winform\WindowsFormsApp\errorProvider\bin\Debug\errorProvider.exe
+D:\kudo\Winform\WindowsFormsApp\errorProvider\bin\Debug\errorProvider.pdb
+D:\kudo\Winform\WindowsFormsApp\errorProvider\obj\Debug\errorProvider.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\errorProvider\obj\Debug\errorProvider.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\errorProvider\obj\Debug\errorProvider.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\errorProvider\obj\Debug\errorProvider.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\errorProvider\obj\Debug\errorProvider.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\errorProvider\obj\Debug\errorProvider.exe
+D:\kudo\Winform\WindowsFormsApp\errorProvider\obj\Debug\errorProvider.pdb

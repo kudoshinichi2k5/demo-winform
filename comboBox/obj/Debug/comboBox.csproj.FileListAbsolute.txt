@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\comboBox\bin\Debug\comboBox.exe.config
+D:\kudo\Winform\WindowsFormsApp\comboBox\bin\Debug\comboBox.exe
+D:\kudo\Winform\WindowsFormsApp\comboBox\bin\Debug\comboBox.pdb
+D:\kudo\Winform\WindowsFormsApp\comboBox\obj\Debug\comboBox.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\comboBox\obj\Debug\comboBox.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\comboBox\obj\Debug\comboBox.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\comboBox\obj\Debug\comboBox.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\comboBox\obj\Debug\comboBox.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\comboBox\obj\Debug\comboBox.exe
+D:\kudo\Winform\WindowsFormsApp\comboBox\obj\Debug\comboBox.pdb

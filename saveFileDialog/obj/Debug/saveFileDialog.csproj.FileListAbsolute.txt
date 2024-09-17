@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\saveFileDialog\bin\Debug\saveFileDialog.exe.config
+D:\kudo\Winform\WindowsFormsApp\saveFileDialog\bin\Debug\saveFileDialog.exe
+D:\kudo\Winform\WindowsFormsApp\saveFileDialog\bin\Debug\saveFileDialog.pdb
+D:\kudo\Winform\WindowsFormsApp\saveFileDialog\obj\Debug\saveFileDialog.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\saveFileDialog\obj\Debug\saveFileDialog.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\saveFileDialog\obj\Debug\saveFileDialog.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\saveFileDialog\obj\Debug\saveFileDialog.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\saveFileDialog\obj\Debug\saveFileDialog.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\saveFileDialog\obj\Debug\saveFileDialog.exe
+D:\kudo\Winform\WindowsFormsApp\saveFileDialog\obj\Debug\saveFileDialog.pdb

@@ -1,0 +1,10 @@
+D:\kudo\Winform\WindowsFormsApp\groupBox\bin\Debug\groupBox.exe.config
+D:\kudo\Winform\WindowsFormsApp\groupBox\bin\Debug\groupBox.exe
+D:\kudo\Winform\WindowsFormsApp\groupBox\bin\Debug\groupBox.pdb
+D:\kudo\Winform\WindowsFormsApp\groupBox\obj\Debug\groupBox.csproj.AssemblyReference.cache
+D:\kudo\Winform\WindowsFormsApp\groupBox\obj\Debug\groupBox.Form1.resources
+D:\kudo\Winform\WindowsFormsApp\groupBox\obj\Debug\groupBox.Properties.Resources.resources
+D:\kudo\Winform\WindowsFormsApp\groupBox\obj\Debug\groupBox.csproj.GenerateResource.cache
+D:\kudo\Winform\WindowsFormsApp\groupBox\obj\Debug\groupBox.csproj.CoreCompileInputs.cache
+D:\kudo\Winform\WindowsFormsApp\groupBox\obj\Debug\groupBox.exe
+D:\kudo\Winform\WindowsFormsApp\groupBox\obj\Debug\groupBox.pdb
