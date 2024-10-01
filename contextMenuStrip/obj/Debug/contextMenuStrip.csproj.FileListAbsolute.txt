@@ -1,0 +1,10 @@
+D:\kudo\test\contextMenuStrip\bin\Debug\contextMenuStrip.exe.config
+D:\kudo\test\contextMenuStrip\bin\Debug\contextMenuStrip.exe
+D:\kudo\test\contextMenuStrip\bin\Debug\contextMenuStrip.pdb
+D:\kudo\test\contextMenuStrip\obj\Debug\contextMenuStrip.csproj.AssemblyReference.cache
+D:\kudo\test\contextMenuStrip\obj\Debug\contextMenuStrip.Form1.resources
+D:\kudo\test\contextMenuStrip\obj\Debug\contextMenuStrip.Properties.Resources.resources
+D:\kudo\test\contextMenuStrip\obj\Debug\contextMenuStrip.csproj.GenerateResource.cache
+D:\kudo\test\contextMenuStrip\obj\Debug\contextMenuStrip.csproj.CoreCompileInputs.cache
+D:\kudo\test\contextMenuStrip\obj\Debug\contextMenuStrip.exe
+D:\kudo\test\contextMenuStrip\obj\Debug\contextMenuStrip.pdb
