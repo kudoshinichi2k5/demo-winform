@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toolStrip", "toolStrip\tool
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contextMenuStrip", "contextMenuStrip\contextMenuStrip.csproj", "{498521FD-7E48-4FDA-AADF-1E264EE74E0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maskedTextBox", "maskedTextBox\maskedTextBox.csproj", "{19CBF30E-08C5-4AE4-AF96-17F6ACD00CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDI_Parent", "MDI_Parent\MDI_Parent.csproj", "{E3561567-B76D-488F-83AB-C7045288E4D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{498521FD-7E48-4FDA-AADF-1E264EE74E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{498521FD-7E48-4FDA-AADF-1E264EE74E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{498521FD-7E48-4FDA-AADF-1E264EE74E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CBF30E-08C5-4AE4-AF96-17F6ACD00CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CBF30E-08C5-4AE4-AF96-17F6ACD00CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CBF30E-08C5-4AE4-AF96-17F6ACD00CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CBF30E-08C5-4AE4-AF96-17F6ACD00CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3561567-B76D-488F-83AB-C7045288E4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3561567-B76D-488F-83AB-C7045288E4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3561567-B76D-488F-83AB-C7045288E4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3561567-B76D-488F-83AB-C7045288E4D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

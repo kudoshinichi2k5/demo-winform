@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\maskedTextBox"
   ],
-  "SelectedNode": "\\WindowsFormsApp.sln",
+  "SelectedNode": "\\maskedTextBox\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

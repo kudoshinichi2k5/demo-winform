@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\kudo\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{498521FD-7E48-4FDA-AADF-1E264EE74E0B}|contextMenuStrip\\contextMenuStrip.csproj|d:\\kudo\\test\\contextmenustrip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{498521FD-7E48-4FDA-AADF-1E264EE74E0B}|contextMenuStrip\\contextMenuStrip.csproj|solutionrelative:contextmenustrip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|d:\\kudo\\test\\mdi_parent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|solutionrelative:mdi_parent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{498521FD-7E48-4FDA-AADF-1E264EE74E0B}|contextMenuStrip\\contextMenuStrip.csproj|d:\\kudo\\test\\contextmenustrip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{498521FD-7E48-4FDA-AADF-1E264EE74E0B}|contextMenuStrip\\contextMenuStrip.csproj|solutionrelative:contextmenustrip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|d:\\kudo\\test\\mdi_parent\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|solutionrelative:mdi_parent\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|d:\\kudo\\test\\mdi_parent\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|solutionrelative:mdi_parent\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|d:\\kudo\\test\\mdi_parent\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|solutionrelative:mdi_parent\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|d:\\kudo\\test\\mdi_parent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|solutionrelative:mdi_parent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|d:\\kudo\\test\\mdi_parent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3561567-B76D-488F-83AB-C7045288E4D9}|MDI_Parent\\MDI_Parent.csproj|solutionrelative:mdi_parent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\kudo\\test\\contextMenuStrip\\Form1.cs",
-              "RelativeDocumentMoniker": "contextMenuStrip\\Form1.cs",
-              "ToolTip": "D:\\kudo\\test\\contextMenuStrip\\Form1.cs",
-              "RelativeToolTip": "contextMenuStrip\\Form1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAvwBoAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kudo\\test\\MDI_Parent\\Program.cs",
+              "RelativeDocumentMoniker": "MDI_Parent\\Program.cs",
+              "ToolTip": "D:\\kudo\\test\\MDI_Parent\\Program.cs",
+              "RelativeToolTip": "MDI_Parent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:23:12.389Z",
+              "WhenOpened": "2024-10-02T02:22:04.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\kudo\\test\\contextMenuStrip\\Form1.cs",
-              "RelativeDocumentMoniker": "contextMenuStrip\\Form1.cs",
-              "ToolTip": "D:\\kudo\\test\\contextMenuStrip\\Form1.cs [Design]",
-              "RelativeToolTip": "contextMenuStrip\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "MDIParent1.cs",
+              "DocumentMoniker": "D:\\kudo\\test\\MDI_Parent\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "MDI_Parent\\MDIParent1.cs",
+              "ToolTip": "D:\\kudo\\test\\MDI_Parent\\MDIParent1.cs",
+              "RelativeToolTip": "MDI_Parent\\MDIParent1.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAQwHsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:21:31.931Z",
+              "WhenOpened": "2024-10-02T02:20:23.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\kudo\\test\\MDI_Parent\\Form2.cs",
+              "RelativeDocumentMoniker": "MDI_Parent\\Form2.cs",
+              "ToolTip": "D:\\kudo\\test\\MDI_Parent\\Form2.cs [Design]",
+              "RelativeToolTip": "MDI_Parent\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:19:41.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\kudo\\test\\MDI_Parent\\Form1.cs",
+              "RelativeDocumentMoniker": "MDI_Parent\\Form1.cs",
+              "ToolTip": "D:\\kudo\\test\\MDI_Parent\\Form1.cs",
+              "RelativeToolTip": "MDI_Parent\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:19:05.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MDIParent1.cs [Design]",
+              "DocumentMoniker": "D:\\kudo\\test\\MDI_Parent\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "MDI_Parent\\MDIParent1.cs",
+              "ToolTip": "D:\\kudo\\test\\MDI_Parent\\MDIParent1.cs [Design]",
+              "RelativeToolTip": "MDI_Parent\\MDIParent1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:17:55.941Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\kudo\\test\\MDI_Parent\\Form1.cs",
+              "RelativeDocumentMoniker": "MDI_Parent\\Form1.cs",
+              "ToolTip": "D:\\kudo\\test\\MDI_Parent\\Form1.cs [Design]",
+              "RelativeToolTip": "MDI_Parent\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:17:00.126Z",
               "EditorCaption": " [Design]"
             }
           ]
