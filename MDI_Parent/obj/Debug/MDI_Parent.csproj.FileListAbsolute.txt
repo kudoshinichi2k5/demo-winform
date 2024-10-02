@@ -1,0 +1,12 @@
+D:\kudo\test\MDI_Parent\bin\Debug\MDI_Parent.exe.config
+D:\kudo\test\MDI_Parent\bin\Debug\MDI_Parent.exe
+D:\kudo\test\MDI_Parent\bin\Debug\MDI_Parent.pdb
+D:\kudo\test\MDI_Parent\obj\Debug\MDI_Parent.csproj.AssemblyReference.cache
+D:\kudo\test\MDI_Parent\obj\Debug\MDI_Parent.Form1.resources
+D:\kudo\test\MDI_Parent\obj\Debug\MDI_Parent.Form2.resources
+D:\kudo\test\MDI_Parent\obj\Debug\MDI_Parent.MDIParent1.resources
+D:\kudo\test\MDI_Parent\obj\Debug\MDI_Parent.Properties.Resources.resources
+D:\kudo\test\MDI_Parent\obj\Debug\MDI_Parent.csproj.GenerateResource.cache
+D:\kudo\test\MDI_Parent\obj\Debug\MDI_Parent.csproj.CoreCompileInputs.cache
+D:\kudo\test\MDI_Parent\obj\Debug\MDI_Parent.exe
+D:\kudo\test\MDI_Parent\obj\Debug\MDI_Parent.pdb
